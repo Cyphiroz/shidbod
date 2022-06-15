@@ -14,7 +14,10 @@ pip install pywhatkit
 
 
 
-Download the folder shidbod. Then you can run it from the IDLE by openning the code in the IDLE. Make sure the code and the words.txt file is in the same folder. So far the code does not directly work when you click on it from the file explorer.
-If openning in the IDLE doesn't work, copy the code and make a new python file with the code pasted. 
+Download the folder shidbod. Make sure the code and the words.txt file is in the same folder. You can run it either by openning the folder in an IDE or from the CMD directly (Windows). For Mac users you can try the same thing but in Mac terminology or just open from the IDE.
+To do this, enter in cd <Path to the folder>.
+  Then enter python main.py
+
+What this does is it tell the CMD where to look and then to run the program.
 
 Please complete this form too: https://docs.google.com/forms/d/1woaL0jjGdDsUOXxvsHq-0VfBR693JdV_OQ9OgFaTNK0/edit#responses
